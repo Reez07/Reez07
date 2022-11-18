@@ -1,7 +1,7 @@
 ## Hey there 👋
 ✨I'm R Sreelekshmi, a Computer Science and Engineering student. 
 
-✨I'm currently a Draphic Designer at GDSC MBCET. 
+✨I'm currently a Graphic Designer at GDSC MBCET. 
 
 ✨I am passionate about anything creative such as Design, Game Dev, and Web Dev.
 
